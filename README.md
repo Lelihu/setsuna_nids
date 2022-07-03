@@ -48,6 +48,10 @@ The web interface allows you to upload the network packet file (PCAP/PCAPNG) for
 You may use this [dataset](https://goo.gl/iShM7E) provided by [ymirsky/Kitsune-py (NDSS '18)](https://github.com/ymirsky/Kitsune-py).
 You can also use other dataset that is suitable for Setsuna, such as [UNB](https://unb.ca/cic/datasets/).
 
-*Yisroel Mirsky, Tomer Doitshman, Yuval Elovici, and Asaf Shabtai, "Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection", Network and Distributed System Security Symposium 2018 (NDSS'18)*
+## References
+*Yisroel Mirsky, Tomer Doitshman, Yuval Elovici, and Asaf Shabtai, "Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection", Network and Distributed System Security Symposium 2018 (NDSS'18), GitHub [ymirsky/Kitsune-py](https://github.com/ymirsky/Kitsune-py.)*
 
+*D. Han et al., "Evaluating and Improving Adversarial Robustness of Machine Learning-Based Network Intrusion Detectors," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2021.3087242, GitHub [dongtsi/TrafficManipulator](https://github.com/dongtsi/TrafficManipulator)*
+
+## Point of notes
 *The information above may be updated accordingly.*
