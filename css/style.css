@@ -1,0 +1,31 @@
+.colorMode {
+    background-color: #fff;
+    color: #000;
+}
+
+.detectMode:after {
+    content: "Dark mode disabled";
+}
+
+@media (prefers-color-scheme: dark) {
+    .colorMode {
+        background-color: #333;
+        color: #FFF;
+    }
+
+    .detectMode:after {
+        content: "Dark mode enabled";
+    }
+    a {
+        color: #f0ad4e;
+    }
+    p {
+        color: #000;
+    }
+    h1,h2,h3,h4,h5,h6 {
+        color: #000;
+    }
+    .jumbotron {
+        background-color: #333;
+    }
+}
